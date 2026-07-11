@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "CH4-Cr2N-DFT"
+message: "If you use this repository, please cite it as follows."
+type: software
+
+authors:
+  - family-names: Murillo
+    given-names: Jefferson
+
+repository-code: "https://github.com/JeffersonVaronny/CH4-Cr2N-DFT"
+
+license: MIT
+
+keywords:
+  - Density Functional Theory
+  - Quantum ESPRESSO
+  - Cr2N
+  - Methane
+  - Adsorption
+  - Surface Science
+  - MXene
