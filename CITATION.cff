@@ -6,6 +6,10 @@ type: software
 authors:
   - family-names: Murillo
     given-names: Jefferson
+    email: jefferson.murillo@ucr.ac.cr
+
+  - family-names: Rojas
+    given-names: Tomás
 
 repository-code: "https://github.com/JeffersonVaronny/CH4-Cr2N-DFT"
 
