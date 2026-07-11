@@ -7,7 +7,6 @@ This repository contains the computational workflow, input files, analysis scrip
 **Authors**
 
 - Jefferson Murillo
-- Dale Igram
 - Tomás Rojas
 
 **Affiliation**
